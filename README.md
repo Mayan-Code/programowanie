@@ -1,0 +1,2 @@
+# programowanie
+Repo do ćwiczeń
