@@ -4,6 +4,7 @@ Console.WriteLine("Dodanie jako takiego tekstu");
 Console.WriteLine("Dodanie jako takiego tekstu");
 Console.WriteLine("Dodanie jako takiego tekstu 2");
 Console.WriteLine("Dodanie jako takiego tekstu z command line");
+Console.WriteLine("Dodanie jako takiego tekstu z command line");
 
 
 Console.ReadKey();
